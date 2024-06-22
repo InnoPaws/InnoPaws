@@ -25,3 +25,5 @@ I am passionate about coding and dedicated to building softwares.
 - [X] **Helping Others**
  
 Feel free to explore my repositories and projects.
+
+![Visitor Count](https://profile-counter.glitch.me/InnoPaws/count.svg)
